@@ -1,6 +1,6 @@
 # Hey, I'm Ravija Randinu
 
-- :octocat: See my previous account [hpravija](https://github.com/hpravija)
+- :octocat: See my other account [hpravija](https://github.com/hpravija)
 - 📫 How to reach me **ravijarandinu@gmail.com**
 <br/>
 
@@ -12,5 +12,4 @@
 
 ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ravijar&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=ravijar&theme=blueberry_duo"/>
-|---|---|
+<img src="https://github-readme-stats.vercel.app/api?username=ravijar&&show_icons=true&count_private=true&theme=github_dark">
